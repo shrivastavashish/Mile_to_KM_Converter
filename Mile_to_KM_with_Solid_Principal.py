@@ -1,6 +1,7 @@
 from tkinter import *
 from abc import ABC, abstractmethod
 
+# Author: @Ashish Shrivastav
 # Interface for converters
 class Converter(ABC):
     @abstractmethod
